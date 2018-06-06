@@ -3,7 +3,7 @@ module.exports = {
   plugins: [
     'react',
     'import',
-    "jsx/a11y"
+    "jsx-a11y"
   ],
   globals: {
     expect: true,
