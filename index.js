@@ -1,8 +1,8 @@
 module.exports = {
-  extends: 'airbnb-base',
+  extends: 'airbnb',
   plugins: [
-    'import',
     'react',
+    'import',
   ],
   globals: {
     expect: true,
