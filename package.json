@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "git config commit.template .gitcommit_template"
+    "test": "echo \"No tests\" && exit 0",
+    "prepare": "sh scripts/prepare.sh"
   },
   "repository": {
     "type": "git",
