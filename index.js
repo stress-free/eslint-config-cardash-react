@@ -47,6 +47,7 @@ module.exports = {
     quotes: ['error', 'single'],
     'react/jsx-closing-bracket-location': [1, 'after-props'],
     'react/jsx-filename-extension': [1, { extensions: ['.js'], }],
+    "jsx-a11y/anchor-is-valid": [ "error", { "components": [ "Link" ], "specialLink": [ "to" ] } ],
     'no-plusplus': 0,
     'no-param-reassign': [2, { props: false, }],
     'no-mixed-operators': 0,
