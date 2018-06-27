@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests\" && exit 0",
-    "prepare": "sh scripts/prepare.sh"
+    "test": "echo \"No tests\" && exit 0"
   },
   "repository": {
     "type": "git",
