@@ -53,5 +53,6 @@ module.exports = {
     'no-mixed-operators': 0,
     'no-continue': 0,
     'react/forbid-prop-types': 0,
+    'object-curly-newline': ["error", { "consistent": true }],
   }
 }
