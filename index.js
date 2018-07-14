@@ -32,6 +32,9 @@ module.exports = {
     it: true,
     tests: true,
   },
+  settings: {
+    "import/resolver": "webpack",
+  },
   rules: {
     camelcase: [0],
     'comma-dangle': [1, {
