@@ -58,5 +58,7 @@ module.exports = {
     'react/forbid-prop-types': 0,
     'object-curly-newline': ["error", { "consistent": true }],
     'import/extensions': 0,
+    'react/no-did-mount-set-state': 1,
+    'react/no-did-update-set-state': 1
   }
 }
